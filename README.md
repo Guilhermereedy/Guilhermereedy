@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Guilhermereedy
-- 👀 I’m interested in  conseguir um emprego como desenvolvedor 
-- 🌱 I’m currently  cursando analise e desenvolvimento de sistemas pretendo me tornar um desenvolvedor full stak
-- Meu  primeiro foco e minha Familia.
+- 👀 I’m interested in conseguir meu primeiro emprego como desenvolvedor. 
+- 🌱 I’m currently  cursando Analise e Desenvolvimento de Sistemas. Desenvolvedor full-stak
 - 📫 How to reach me ...https://www.linkedin.com/in/guilherme-costa-b3b829211/
+- ["O temor do Senhor ensina a sabedoria, e a humildade antecede a honra"]
+- {📫Provérbios 15:33}
 
 <!---
 Guilhermereedy/Guilhermereedy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
