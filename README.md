@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guilhermereedy
+- 👋 Hi, I’m @Guilherme Costa. Obrigado por visitar meu perfil, fique a vontade para olhar os reposítories.
 - 👀 I’m interested in conseguir meu primeiro emprego como desenvolvedor. 
 - 🌱 I’m currently  cursando Analise e Desenvolvimento de Sistemas. Desenvolvedor full-stak
 - 📫 How to reach me ...https://www.linkedin.com/in/guilherme-costa-b3b829211/
