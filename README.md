@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Guilherme Costa. Obrigado por visitar meu perfil, fique a vontade para olhar os reposítories.
 - 👀  Desenvolvedor Full-Stack.
--  Statrup Plenitude Technology
 - 🌱 I’m currently  cursando Analise e Desenvolvimento de Sistemas. Desenvolvedor full-stak
 - 📫 How to reach me ...https://www.linkedin.com/in/guilherme-costa-b3b829211/
 - ["O temor do Senhor ensina a sabedoria, e a humildade antecede a honra"]
