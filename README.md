@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Guilherme Costa. Obrigado por visitar meu perfil, fique a vontade para olhar os reposítories.
 - 👀  Desenvolvedor Full-Stack.
-- 🌱 I’m currently  cursando Analise e Desenvolvimento de Sistemas. Desenvolvedor full-stak
+- 🌱 Technologist in Systems Analysis and Development. Desenvolvedor full-stak
+- 👀 Postgraduate Degree (in progress) in Software Engineering
 - 📫 How to reach me ...https://www.linkedin.com/in/guilherme-costa-b3b829211/
 - ["O temor do Senhor ensina a sabedoria, e a humildade antecede a honra"]
 - {📫Provérbios 15:33}
